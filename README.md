@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **juliowangjaya@gmail.com**
 
-- 📄 Know about my experiences [Dalam Responsi Back End Mata Kuliah Rekayasa Web Praktik VIII, saya berkontribusi sebagai perancang kode program bagian html, update dan tambah. Saya juga membuat database dan tabel yang nantinya akan digunakan untuk program crud ✌😊](Dalam Responsi Back End Mata Kuliah Rekayasa Web Praktik VIII, saya berkontribusi sebagai perancang kode program bagian html, update dan tambah. Saya juga membuat database dan tabel yang nantinya akan digunakan untuk program crud ✌😊)
-
 - ⚡ Fun fact **I Like to playing guitar & read a book**
 
 <h3 align="left">Connect with me:</h3>
